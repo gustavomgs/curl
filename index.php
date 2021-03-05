@@ -1,3 +1,5 @@
+<?php
+
 $url  = "https://ehr-auth-hmg.saude.gov.br/api/token";
         $cert = "https://storage.googleapis.com/simus-assets-dev/dev/4680/certificado/1cd6bvoevi8dge2qlv9sewt71h9jn4o.pfx";
 
