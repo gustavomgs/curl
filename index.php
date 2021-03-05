@@ -6,7 +6,7 @@ $url  = "https://ehr-auth-hmg.saude.gov.br/api/token";
         $pass = '230221';
 
         $url = "https://ehr-auth-hmg.saude.gov.br/api/token";
-        $cert_file = 'https://gensoft.site/curl/ocggbjls4m461h099zexd9ow42vzoy7.pfx';
+        $cert_file = 'https://storage.googleapis.com/simus-assets-dev/dev/global/usuario/assinatura/ocggbjls4m461h099zexd9ow42vzoy7%20(1).pfx';
         $cert_password = '230221';
         $pem_file = "https://gensoft.site/curl/cacert-2021-01-19.pem";
 
